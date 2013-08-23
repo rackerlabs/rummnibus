@@ -1,8 +1,3 @@
-# rumm Omnibus project
-
-This project creates full-stack platform-specific packages for
-`rumm`!
-
 ## Installation
 
 We'll assume you have Ruby 1.9+ and Bundler installed. First ensure all
